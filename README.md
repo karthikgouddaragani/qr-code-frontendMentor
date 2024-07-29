@@ -10,10 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
